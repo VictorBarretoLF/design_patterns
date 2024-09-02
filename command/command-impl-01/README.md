@@ -1,0 +1,1 @@
+A implementação foi encontrada aqui: [Command Design Pattern in Java](https://medium.com/@neerukapoor/command-design-pattern-in-java-7d06dfdd31)
